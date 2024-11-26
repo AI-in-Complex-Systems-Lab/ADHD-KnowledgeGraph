@@ -3,7 +3,7 @@
 [Interactive Knowledge Graph Visualization Link](https://cosmograph.app/run/?data=https://raw.githubusercontent.com/AI-in-Complex-Systems-Lab/ADHD-KnowledgeGraph/main/finalgraph_v2.csv&meta=https://raw.githubusercontent.com/AI-in-Complex-Systems-Lab/ADHD-KnowledgeGraph/main/metadata_v2.csv&gravity=0.2&repulsion=1.8&repulsionTheta=0.5&linkSpring=0.3&linkDistance=20&friction=0.25&renderLabels=true&renderHoveredLabel=true&renderLinks=true&nodeSizeScale=1.3&linkWidthScale=1&linkArrowsSizeScale=1&nodeSize=size-total%20links&nodeColor=color-type&nodeLabel=id&linkWidth=width-sum-value&linkColor=color-color&)
 
 
-# LLM Honeypot
+# ADHD Knowledge Graph
 
 Code for our paper "A New Perspective on ADHD Research: Knowledge Graph Construction with LLMs and Network Based Insights" published in Complex Networks and Their Applications (CNA) 2024.
 
